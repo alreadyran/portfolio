@@ -281,9 +281,8 @@ p {
   .gnb {
     background-color: #d4e7d0;
     position: fixed;
-    top: 0;
-    left: 80px;
-    width: 35vh;
+    top: 60px;
+    right: 0;
     height: 100vh;
     border-right: 1px solid #161616;
     box-shadow: 15px 0px 35px rgba(16, 0, 0, 0.15);

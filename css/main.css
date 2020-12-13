@@ -18,16 +18,22 @@
   grid-area: 1/1/4/4;
 }
 .intro_wrap .img_wrap {
-  width: 10vh;
-  height: 3vh;
-  display: none;
+  /* display: none; */
 }
 .intro_wrap .img_wrap .card1 {
-  grid-area: 2/2/3/3;
+  grid-area: 1/1/4/4;
+  width: 80px;
+  height: 160px;
+  background: url(../img/mian_item_01.png) no-repeat center center;
 }
+grid-area: 1/1/4/4;
 .intro_wrap .img_wrap .card2 {
-  grid-area: 1/2/3/3;
+  grid-area: 1/1/4/4;
+  width: 80px;
+  height: 160px;
+  background: url(../img/mian_item_02.png) no-repeat center center;
 }
+
 .intro_wrap h1 {
   color: #e7ee80;
   font-weight: 500;
